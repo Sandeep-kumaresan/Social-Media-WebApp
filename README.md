@@ -1,1 +1,3 @@
 # Social-Media-WebApp
+This is a Social Media Webapp based on MERN stack with usual social media stuffs...
+This project is under development
