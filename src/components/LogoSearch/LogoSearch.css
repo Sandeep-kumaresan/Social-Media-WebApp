@@ -1,0 +1,10 @@
+.LogoSearch{
+    display: flex;
+    gap: 0.75rem;
+}
+.Search{
+    display:flex;
+    background-color: var(--inputCOLOR);
+    border-radius: 10px;
+    padding:5px;
+}
